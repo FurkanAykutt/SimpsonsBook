@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  SimpsonBook
 //
-//  Created by Ebubekir Aykut on 4.09.2021.
+//  Created by Furkan Aykut on 4.09.2021.
 //
 
 import UIKit
